@@ -1,6 +1,5 @@
 
 <ng-container *ngIf="cartList?.length > 0;else noCart">
-    <p>Total Cart Price : -   </p>
     <div class="card product-card" *ngFor="let item of cartList">
             <img [src]="item?.imageUrl" height="100" alt="Product Photo" class="card-img-top">
             <div class="card-body">
