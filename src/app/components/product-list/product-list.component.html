@@ -1,0 +1,16 @@
+<div class="d-flex"  style="flex-wrap: wrap;">
+
+    <div class="card m-4 product-card" *ngFor="let item of productList">
+        <img [src]="item?.imageUrl" height="200px" alt="Product Photo" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">{{ item?.name }}</h5>
+          <p class="card-text">{{item?.details}}</p>
+          <div class="add_To_Cart">
+            <a class="btn btn-sm btn-primary m-2" (click)="sendCart(item)">Add To Cart</a>
+            <img src="assets/images/wishlist.png" height="30" width="30" alt="Wishlist">
+          </div>
+        </div>
+    </div>
+
+</div>
+  

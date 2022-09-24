@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'products';
+  data: any;
+  cartArray: any = [];
+
+  constructor(){}
+
+  sendCart($event:any){
+    this.data = $event;
+    this.cartArray.push(this.data);
+    console.log('data -->',this.data)
+  }
 }

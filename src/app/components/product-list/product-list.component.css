@@ -1,0 +1,32 @@
+.product-card{
+    transform: scale(1);
+    transition: all .5s ease-in-out;
+    width: 250px;box-shadow: 8px 8px 8px rgb(231, 231, 245);border: none;
+}
+
+.add_To_Cart{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    opacity: 0;
+    transition: all .5s ease-in-out;
+}
+.add_To_Cart a{
+    margin-left: 4px;
+}
+.add_To_Cart img{
+    margin-right: 0px;
+    color: pink;
+    cursor: pointer;
+}
+
+.product-card:hover{
+    transform: scale(1.1);
+    transition: all .5s ease-in-out;
+}
+.product-card:hover .add_To_Cart{
+    opacity: 1;
+    transition: all .5s ease-in-out;
+}

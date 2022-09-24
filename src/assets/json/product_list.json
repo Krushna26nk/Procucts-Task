@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Sport Shoes",
+        "imageUrl": "assets/images/shoes.jpg",
+        "price": "1599",
+        "description": "Exclusive Range of Stylish Comfortable Sports Sneakers Running Shoes Running Shoes For Men.",
+        "details": "Exclusive Range of Stylish Comfortable Sports Sneakers Running Shoes Running Shoes For Men."
+    },
+    {
+        "name": "Mike Mountes Wireless HeadPhones",
+        "imageUrl": "assets/images/headphones3.jpg",
+        "price": "1299",
+        "description": "BoAt Airdopes 131 with upto 15 Hours Playback, 13mm Drivers and IWP Technology Bluetooth Headset  (Active Black, True Wireless)",
+        "details": "BoAt Airdopes 131 with upto 15 Hours Playback, 13mm Drivers and IWP Technology Bluetooth Headset  (Active Black, True Wireless)"
+    },
+    {
+        "name": "Dell Laptop 4GB /225GB SSD",
+        "imageUrl": "assets/images/laptop_1.jpg",
+        "price": "42999",
+        "description": "DELL G15 Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office)",
+        "details": "DELL G15 Core i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office)"
+    },
+    {
+        "name": "OnePLus Android SmartPhone",
+        "imageUrl": "assets/images/mobile-phone.png",
+        "price": "23999",
+        "description": "Enjoy smooth operation and intuitive performance with the HOT 12 which comes loaded with features to keep you amused throughout the day. Its brilliant 17.32 cm (6.82) HD+ Punch Hole display delivers a captivating visual experience with a narrow bezel advantage.",
+        "details": "Enjoy smooth operation and intuitive performance with the HOT 12 which comes loaded with features to keep you amused throughout the day. Its brilliant 17.32 cm (6.82) HD+ Punch Hole display delivers a captivating visual experience with a narrow bezel advantage."
+    },
+    {
+        "name": "One Plus Premium Android Smartphone",
+        "imageUrl": "assets/images/mobile-phone-1.jpeg",
+        "price": "42999",
+        "description": "Enjoy smooth operation and intuitive performance with the HOT 12 which comes loaded with features to keep you amused throughout the day. Its brilliant 17.32 cm (6.82) HD+ Punch Hole display delivers a captivating visual experience with a narrow bezel advantage.",
+        "details": "Enjoy smooth operation and intuitive performance with the HOT 12 which comes loaded with features to keep you amused throughout the day. Its brilliant 17.32 cm (6.82) HD+ Punch Hole display delivers a captivating visual experience with a narrow bezel advantage."
+    },
+    {
+        "name": "Addidas Running Sport Shoes",
+        "imageUrl": "assets/images/shoes1.jpg",
+        "price": "2999",
+        "description": "Training & Gym Shoes For Men  (Multicolor)",
+        "details": "Training & Gym Shoes For Men  (Multicolor)"
+    },
+    {
+        "name": "ARC Eye Glasses",
+        "imageUrl": "assets/images/eye-glasses.jpg",
+        "price": "2399",
+        "description": "Full Rim Rectangle Anti Glare & Blue Cut Computer Glass For Men & Women  (50 mm)",
+        "details": "Full Rim Rectangle Anti Glare & Blue Cut Computer Glass For Men & Women  (50 mm)"
+    },
+    {
+        "name": "Branded Wired Headphones",
+        "imageUrl": "assets/images/headphones4.jpg",
+        "price": "1999",
+        "description": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)",
+        "details": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)"
+    },
+    {
+        "name": "Wired Headphones",
+        "imageUrl": "assets/images/headphone_2.jpg",
+        "price": "999",
+        "description": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)",
+        "details": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)"
+    },
+    {
+        "name": "Gymnasium Fit Running Shoes",
+        "imageUrl": "assets/images/shoes3.jpg",
+        "price": "3999",
+        "description": "Exclusive Range of Stylish Comfortable Sports Sneakers Running Shoes Running Shoes For Men.",
+        "details": "Exclusive Range of Stylish Comfortable Sports Sneakers Running Shoes Running Shoes For Men."
+    }
+]

@@ -1,0 +1,15 @@
+
+<ng-container *ngIf="cartList?.length > 0;else noCart">
+    <p>Total Cart Price : -   </p>
+    <div class="card product-card" *ngFor="let item of cartList">
+            <img [src]="item?.imageUrl" height="100" alt="Product Photo" class="card-img-top">
+            <div class="card-body">
+            <h5 class="card-title">{{ item?.name }}</h5>
+            <p class="card-text">{{item?.details}}</p>
+    </div>
+    </div>
+</ng-container>
+
+<ng-template #noCart>
+    <h2>There are to items added in cart !</h2>
+</ng-template>
